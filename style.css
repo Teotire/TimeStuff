@@ -40,6 +40,7 @@ a.close {
   font-size: 13px;
   font-weight: 150;
 }
+/*COMMENT*/
 
 a.close:hover {
   cursor:pointer;
